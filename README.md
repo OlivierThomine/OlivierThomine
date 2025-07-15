@@ -45,13 +45,12 @@ End-to-end solution predicting real estate prices affected by climate risks. Bui
 ## 📩 Contact
 - 📧 olivierthomine@hotmail.fr  
 - 📍 Paris, France  
-- 🔗 [LinkedIn](#)  
 - 🔗 [GitHub Profile](https://github.com/OlivierThomine)
 
 
 <!--
 **OlivierThomine/OlivierThomine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 🔗 [LinkedIn]()  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
