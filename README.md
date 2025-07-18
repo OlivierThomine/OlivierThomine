@@ -1,4 +1,4 @@
-# Olivier Thomine – Junior Data Engineer
+# Junior Data Engineer
 
 Welcome to my GitHub!
 
