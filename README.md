@@ -7,10 +7,10 @@ Currently pivoting into the Data field, I specialize in **Data Engineering**, **
 ---
 
 ## 🌟 Core Skills
-- **Languages & Data Manipulation**: Python, SQL, Pandas, Numpy, REST APIs
-- **Machine Learning & Deep Learning**: Scikit-learn, PyTorch, Hugging Face, NLP
+- **Languages & Data Manipulation**: Python, SQL, Pandas, Numpy, 
+- **Machine Learning & Deep Learning**: Scikit-learn, PyTorch, 
 - **Data Engineering & Cloud**: AWS (S3, RDS), BigQuery, PySpark, Databricks
-- **MLOps & Deployment**: MLflow, FastAPI, Streamlit, Docker
+- **MLOps & Deployment**: MLflow, Streamlit, Docker
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 
 ---
