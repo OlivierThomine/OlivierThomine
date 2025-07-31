@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-Recently moved into the Data domain, drawn to Data Engineering for its combination of architecture, automation, and end-to-end problem solving — from ingestion to production deployment.
+Recently moved into the Data domain, drawn to Data Engineering for its combination of architecture, automation, and end-to-end problem solving, from ingestion to production deployment.
 
 ---
 
