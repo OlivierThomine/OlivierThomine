@@ -7,10 +7,11 @@ Recently moved into the Data domain, drawn to Data Engineering for its combinati
 ---
 
 ## Core Skills
--  **Data Engineering**: Python, SQL, PySpark, Pandas, AWS (S3, RDS), PostgreSQL
-- **Pipelines & Processing**: Databricks, Spark, dbt (en cours)
-- **Deployment**: MLflow, Docker, Streamlit
-- **Complementary**: Scikit-learn, PyTorch, Plotly, Seaborn
+- **Langages & Data** : Python · SQL · Pandas
+- **Data Engineering** : PySpark · Databricks · PostgreSQL · Airflow(in progress) · dbt(in progress)
+- **Cloud & Infrastructure** : AWS (S3, RDS) · Docker · Git/GitHub Actions · Terraform
+- **MLOps &Deployment** : MLflow · Streamlit · FastAPI · CI/CD
+- **Libraries & Visualization** : Scikit-learn · PyTorch · Plotly · Seaborn
 
 ---
 
