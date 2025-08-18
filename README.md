@@ -10,7 +10,7 @@ Recently moved into the Data domain, drawn to Data Engineering for its combinati
 - **Langages & Data** : Python · SQL · Pandas
 - **Data Engineering** : PySpark · Databricks · PostgreSQL · Airflow(in progress) · dbt(in progress)
 - **Cloud & Infrastructure** : AWS (S3, RDS) · Docker · Git/GitHub Actions · Terraform
-- **MLOps &Deployment** : MLflow · Streamlit · FastAPI · CI/CD
+- **MLOps & Deployment** : MLflow · Streamlit · FastAPI · CI/CD
 - **Libraries & Visualization** : Scikit-learn · PyTorch · Plotly · Seaborn
 
 ---
